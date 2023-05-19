@@ -157,3 +157,61 @@ body {
 .header .cards .card:nth-of-type(2) img {
   width: 215px;
 }
+
+section {
+  background: #202023;
+}
+
+h4 {
+  padding-top: 21px;
+  font-size: 64px;
+  width: 165px;
+  height: 77px;
+  margin-left: 655px;
+  color: #ffffff;
+  font-family: "Inter";
+}
+
+.container {
+  width: 873px;
+  height: 565px;
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 18px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  border: none;
+  font-family: "Inter";
+}
+.container p {
+  text-align: center;
+}
+.container .Breads div {
+  border: 1px solid #ffffff;
+  width: 328px;
+  height: 229px;
+  font-family: "Inter";
+}
+.container .Breads img {
+  width: 294px;
+  height: 184px;
+}
+.container .Breads p {
+  font-size: 25.92px;
+  color: #ffffff;
+  font-family: "Inter";
+}
+.container .Breads button {
+  width: 160px;
+  height: 41px;
+  margin-top: 8px;
+  margin-left: 76px;
+  border-radius: 17px;
+  background: #B47B48;
+  color: #ffffff;
+  font-size: 25.92px;
+  display: block;
+  font-family: "Inter";
+}
